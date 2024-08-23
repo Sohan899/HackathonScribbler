@@ -1,20 +1,13 @@
 {
   "metadata": {
-    "name": "New JSNB",
+    "name": "Loading a note book...",
     "language_info": {
       "name": "JavaScipt",
       "version": "8.0"
     }
   },
   "jsnbversion": "v0.1",
-  "cells": [
-    {
-      "code": "",
-      "status": "",
-      "output": "",
-      "type": "code"
-    }
-  ],
+  "cells": [],
   "source": "https://github.com/gopi-suvanam/jsnb",
   "run_on_load": false
 }
